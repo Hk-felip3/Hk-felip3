@@ -2,18 +2,27 @@
 <div>
 *💻 ciência da computação 5/8
 </div>
+-----------------------------------
 <div>
 *🧠 learning in cybersecurity
 </div>
+--------------------------------------
 <div>*FORMAÇÃO ACADÊMICA</div>
 *	Graduação em Ciência da Computação,  
 Cursando o 5° semestre – Atualmente
 </div>
+
 <div>
   *objetivo- usar este perfil no git hub para apresentar meus projeto de aprendizado para 
   todos dentro da área de cybersecurity vizando ter uma gama de desfios de construção de softwares  em 
-  python , linguagem c é c++  msql entre outras .
+  PYTHON , linguagem C é C++  MSQL entre outras .
 </div>
+-----------------------------------------------------
+
+<DIV> MOSTRAR MEU CONHECIMENTO É DOMINIO DESSAS É OUTRAS DEMAIS LINGUAGENS</DIV>
+------------------------------------------------
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
