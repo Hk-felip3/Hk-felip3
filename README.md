@@ -32,7 +32,7 @@ Cursando o 5° semestre – Atualmente
    <img align="center" alt="Rafa-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
    
-   /********\
+  
    
  <a href = "mailto:felipe2004try@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
  </div>
