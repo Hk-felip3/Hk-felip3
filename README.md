@@ -1,6 +1,6 @@
 # Olá! sou Felipe Pereira
 <div>
-*💻 ciência da computação 5/8
+*💻 ciência da computação 7/8
 </div>
 -----------------------------------
 <div>
