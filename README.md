@@ -11,7 +11,6 @@ ________________________________
 *	Graduação em Ciência da Computação,  
 Cursando o 7° semestre – Atualmente
 </div>
-________________________________
 <div>
   *objetivo- usar este perfil no git hub para apresentar meus projeto de aprendizado para 
   todos dentro da área de cybersecurity é Analise de dados vizando ter uma gama de desfios de 
