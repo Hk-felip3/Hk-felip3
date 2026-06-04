@@ -41,8 +41,8 @@ Sou um Profissional de Tecnologia da Informação em formação, apaixonado por 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight" alt="Estatísticas do Felipe" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hk-felip3&show_icons=true&theme=tokyonight" alt="Estatísticas do Felipe" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hk-felip3&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="150"/>
 </div>
 
 ---
