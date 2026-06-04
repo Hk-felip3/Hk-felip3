@@ -4,29 +4,20 @@
 </div>
 ________________________________
 <div>
-*🧠 learning in cybersecurity - Redes é Monitoramento.
+*🧠 learning in cybersecurity -  Tec. em Redes é Monitoramento.
+
+  *	Graduação em Ciência da Computação, 
 </div>
 ________________________________
-<div>*FORMAÇÃO ACADÊMICA</div>
-
-*	Graduação em Ciência da Computação,  
-
-* Cursando o 7° semestre – Atualmente
-</div>
 
 <div>
 Profissional de Tecnologia da Informação em formação, atualmente cursando o 7º período do curso de Ciência da Computação. Atuo no Departamento de Informática do Ministério Público do Estado do Pará (MPPA), com foco específico na área de redes. Possuo experiência em desenvolvimento de software, infraestrutura de redes e suporte técnico.
 
 Busco concluir a graduação com ênfase em redes, cibersegurança e análise de dados, visando consolidar uma carreira sólida na área de TI. Tenho como objetivo contribuir para o desenvolvimento de soluções tecnológicas inovadoras, com atenção à usabilidade, segurança, testes e aprimoramento contínuo de sistemas e infraestruturas.
 
-Professional Profile
-
-Information Technology professional currently pursuing a Bachelor's degree in Computer Science, in the 7th semester. I am currently working in the IT Department of the Public Prosecutor's Office of the State of Pará (MPPA), with a focus on network infrastructure. I have experience in software development, network administration, and technical support.
-
-My goal is to complete my degree with a focus on networks, cybersecurity, and data analysis, aiming to build a strong career in the IT field. I am committed to contributing to the development of innovative technological solutions, with emphasis on usability, security, testing, and continuous improvement of systems and network infrastructure.
 </div>
 ________________________________
-<DIV> MOSTRAR MEU CONHECIMENTO É DOMINIO DESSAS É OUTRAS DEMAIS LINGUAGENS é Ferramentas </DIV>
+<DIV> MOSTRAR MEU CONHECIMENTO É DOMINIO DESSAS É OUTRAS DEMAIS LINGUAGENS É FERRAMENTAS </DIV>
 ________________________________
 
 
